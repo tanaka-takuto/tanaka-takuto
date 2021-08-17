@@ -1,0 +1,13 @@
+{
+  "name": "Docker from Docker Compose",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/go",
+  "settings": {},
+  "extensions": [
+    "golang.go",
+    "bierner.markdown-mermaid"
+  ],
+  "remoteUser": "root",
+  "postCreateCommand": "cd src && air"
+}

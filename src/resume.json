@@ -1,0 +1,1558 @@
+{
+  "Aliases": [
+    {
+      "Name": "ApolloGraphQL",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "311C87"
+      },
+      "Icon": "ApolloGraphQL"
+    },
+    {
+      "Name": "C",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "A8B9CC"
+      },
+      "Icon": "C"
+    },
+    {
+      "Name": "CSharp",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "239120"
+      },
+      "Icon": "CSharp"
+    },
+    {
+      "Name": "CSS3",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "1572B6"
+      },
+      "Icon": "CSS3"
+    },
+    {
+      "Name": "HTML5",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "E34F26"
+      },
+      "Icon": "HTML5"
+    },
+    {
+      "Name": "Java",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "007396"
+      },
+      "Icon": "Java"
+    },
+    {
+      "Name": "JavaScript",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "F7DF1E"
+      },
+      "Icon": "JavaScript"
+    },
+    {
+      "Name": "MySQL",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "4479A1"
+      },
+      "Icon": "MySQL"
+    },
+    {
+      "Name": "Nuxt.js",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "00C58E"
+      },
+      "Icon": "Nuxt.js"
+    },
+    {
+      "Name": "Oracle",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "F80000"
+      },
+      "Icon": "Oracle"
+    },
+    {
+      "Name": "PL/SQL",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "F80000"
+      },
+      "Icon": "Oracle"
+    },
+    {
+      "Name": "PostgreSQL",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "4169E1"
+      },
+      "Icon": "PostgreSQL"
+    },
+    {
+      "Name": "Pug",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "A86454"
+      },
+      "Icon": "Pug"
+    },
+    {
+      "Name": "Sass",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "CC6699"
+      },
+      "Icon": "Sass"
+    },
+    {
+      "Name": "SprintBoot",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "6DB33F"
+      },
+      "Icon": "SprintBoot"
+    },
+    {
+      "Name": "TypeScript",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "3178C6"
+      },
+      "Icon": "TypeScript"
+    },
+    {
+      "Name": "TypeScript",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "3178C6"
+      },
+      "Icon": "TypeScript"
+    },
+    {
+      "Name": "VBScript",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "0076D6"
+      },
+      "Icon": "VBScript"
+    },
+    {
+      "Name": "Vue.js",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "4FC08D"
+      },
+      "Icon": "Vue.js"
+    },
+    {
+      "Name": "Vuetify",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "1867C0"
+      },
+      "Icon": "Vuetify"
+    },
+    {
+      "Name": "XAML",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "0C54C2"
+      },
+      "Icon": "XAML"
+    },
+    {
+      "Name": "Express",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "000000"
+      },
+      "Icon": "Express"
+    },
+    {
+      "Name": "LiteDB",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "607D8A"
+      },
+      "Icon": "LiteDB"
+    },
+    {
+      "Name": "MicrosoftSQLServer",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "CC2927"
+      },
+      "Icon": "MicrosoftSQLServer"
+    },
+    {
+      "Name": ".NET",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "512BD4"
+      },
+      "Icon": ".NET"
+    },
+    {
+      "Name": "GoogleCloud",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "4285F4"
+      },
+      "Icon": "GoogleCloud"
+    },
+    {
+      "Name": "Slack",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "4A154B"
+      },
+      "Icon": "Slack"
+    },
+    {
+      "Name": "PHP",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "777BB4"
+      },
+      "Icon": "PHP"
+    },
+    {
+      "Name": "Go",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "00ADD8"
+      },
+      "Icon": "Go"
+    },
+    {
+      "Name": "gorm",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "00ADD8"
+      },
+      "Icon": ""
+    },
+    {
+      "Name": "Redmine",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "B32024"
+      },
+      "Icon": "Redmine"
+    },
+    {
+      "Name": "GoogleWorkspace",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "4285F4"
+      },
+      "Icon": "Google"
+    },
+    {
+      "Name": "Jenkins",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "D24939"
+      },
+      "Icon": "Jenkins"
+    },
+    {
+      "Name": "Docker",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "2496ED"
+      },
+      "Icon": "Docker"
+    },
+    {
+      "Name": "Nginx",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "009639"
+      },
+      "Icon": "Nginx"
+    },
+    {
+      "Name": "VBA",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "3178C6"
+      },
+      "Icon": "MicrosoftOffice"
+    },
+    {
+      "Name": "AmazonAWS",
+      "Color": {
+        "FontColor": "FFFFFF",
+        "ImageColor": "232F3E"
+      },
+      "Icon": "Amazon%20AWS"
+    }
+  ],
+  "Basic": {
+    "Name": "田中 拓斗",
+    "AlpName": "Takuto Tanaka",
+    "Likes": [],
+    "GoodAt": [
+      "温和な性格で誰とでも円滑なコミュニケーションをとれる",
+      "見切りの速さ",
+      "新しい技術への探究心",
+      "別業界への興味関心(農業や 3D プリンターなど)"
+    ],
+    "WantToDo": [
+      "PM という立場でサービス開発を牽引していく",
+      "Jamstack で構築したフロントエンド開発",
+      "Go 言語などモダンな技術を使用したサーバーサイド開発"
+    ]
+  },
+  "SkilSet": {
+    "Languages": [
+      {
+        "SkilInfo": {
+          "Name": "PHP",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "777BB4"
+          },
+          "Icon": "PHP"
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "HTML5",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "E34F26"
+          },
+          "Icon": "HTML5"
+        },
+        "ExperienceMonth": 53
+      },
+      {
+        "SkilInfo": {
+          "Name": "CSS3",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "1572B6"
+          },
+          "Icon": "CSS3"
+        },
+        "ExperienceMonth": 53
+      },
+      {
+        "SkilInfo": {
+          "Name": "Go",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "00ADD8"
+          },
+          "Icon": "Go"
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "TypeScript",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "3178C6"
+          },
+          "Icon": "TypeScript"
+        },
+        "ExperienceMonth": 12
+      },
+      {
+        "SkilInfo": {
+          "Name": "PL/SQL",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "F80000"
+          },
+          "Icon": "Oracle"
+        },
+        "ExperienceMonth": 40
+      },
+      {
+        "SkilInfo": {
+          "Name": "CSharp",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "239120"
+          },
+          "Icon": "CSharp"
+        },
+        "ExperienceMonth": 40
+      },
+      {
+        "SkilInfo": {
+          "Name": "JavaScript",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "F7DF1E"
+          },
+          "Icon": "JavaScript"
+        },
+        "ExperienceMonth": 38
+      },
+      {
+        "SkilInfo": {
+          "Name": "VBScript",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "0076D6"
+          },
+          "Icon": "VBScript"
+        },
+        "ExperienceMonth": 20
+      },
+      {
+        "SkilInfo": {
+          "Name": "Java",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "007396"
+          },
+          "Icon": "Java"
+        },
+        "ExperienceMonth": 18
+      },
+      {
+        "SkilInfo": {
+          "Name": "C",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "A8B9CC"
+          },
+          "Icon": "C"
+        },
+        "ExperienceMonth": 35
+      },
+      {
+        "SkilInfo": {
+          "Name": "VBA",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "3178C6"
+          },
+          "Icon": "MicrosoftOffice"
+        },
+        "ExperienceMonth": 35
+      }
+    ],
+    "Framework": [
+      {
+        "SkilInfo": {
+          "Name": "gorm",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "00ADD8"
+          },
+          "Icon": ""
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "Pug",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "A86454"
+          },
+          "Icon": "Pug"
+        },
+        "ExperienceMonth": 12
+      },
+      {
+        "SkilInfo": {
+          "Name": "Sass",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "CC6699"
+          },
+          "Icon": "Sass"
+        },
+        "ExperienceMonth": 12
+      },
+      {
+        "SkilInfo": {
+          "Name": "Nuxt.js",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "00C58E"
+          },
+          "Icon": "Nuxt.js"
+        },
+        "ExperienceMonth": 12
+      },
+      {
+        "SkilInfo": {
+          "Name": "Vue.js",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "4FC08D"
+          },
+          "Icon": "Vue.js"
+        },
+        "ExperienceMonth": 18
+      },
+      {
+        "SkilInfo": {
+          "Name": "Vuetify",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "1867C0"
+          },
+          "Icon": "Vuetify"
+        },
+        "ExperienceMonth": 18
+      },
+      {
+        "SkilInfo": {
+          "Name": "LiteDB",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "607D8A"
+          },
+          "Icon": "LiteDB"
+        },
+        "ExperienceMonth": 20
+      },
+      {
+        "SkilInfo": {
+          "Name": "SprintBoot",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "6DB33F"
+          },
+          "Icon": "SprintBoot"
+        },
+        "ExperienceMonth": 18
+      }
+    ],
+    "DB": [
+      {
+        "SkilInfo": {
+          "Name": "MySQL",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "4479A1"
+          },
+          "Icon": "MySQL"
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "Oracle",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "F80000"
+          },
+          "Icon": "Oracle"
+        },
+        "ExperienceMonth": 52
+      },
+      {
+        "SkilInfo": {
+          "Name": "PL/SQL",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "F80000"
+          },
+          "Icon": "Oracle"
+        },
+        "ExperienceMonth": 20
+      },
+      {
+        "SkilInfo": {
+          "Name": "LiteDB",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "607D8A"
+          },
+          "Icon": "LiteDB"
+        },
+        "ExperienceMonth": 20
+      },
+      {
+        "SkilInfo": {
+          "Name": "MicrosoftSQLServer",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "CC2927"
+          },
+          "Icon": "MicrosoftSQLServer"
+        },
+        "ExperienceMonth": 20
+      },
+      {
+        "SkilInfo": {
+          "Name": "PostgreSQL",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "4169E1"
+          },
+          "Icon": "PostgreSQL"
+        },
+        "ExperienceMonth": 6
+      }
+    ],
+    "Tool": [
+      {
+        "SkilInfo": {
+          "Name": "Slack",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "4A154B"
+          },
+          "Icon": "Slack"
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "Redmine",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "B32024"
+          },
+          "Icon": "Redmine"
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "GoogleWorkspace",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "4285F4"
+          },
+          "Icon": "Google"
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "Jenkins",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "D24939"
+          },
+          "Icon": "Jenkins"
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "Docker",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "2496ED"
+          },
+          "Icon": "Docker"
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "Nginx",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "009639"
+          },
+          "Icon": "Nginx"
+        },
+        "ExperienceMonth": 3
+      },
+      {
+        "SkilInfo": {
+          "Name": "VBA",
+          "Color": {
+            "FontColor": "FFFFFF",
+            "ImageColor": "3178C6"
+          },
+          "Icon": "MicrosoftOffice"
+        },
+        "ExperienceMonth": 35
+      }
+    ]
+  },
+  "Projects": [
+    {
+      "Title": "転職Webサービス",
+      "From": "2022-03-01T00:00:00Z",
+      "To": "0001-01-01T00:00:00Z",
+      "Description": "バックエンドエンジニアとして参画。作成中・・・",
+      "Experiences": [
+        {
+          "Name": "PHP",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "Go",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "gorm",
+          "SkilTypes": [
+            "backend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "MySQL",
+          "SkilTypes": [
+            "db"
+          ]
+        },
+        {
+          "Name": "Slack",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "Redmine",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "GoogleWorkspace",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "Jenkins",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "Docker",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "Nginx",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "AmazonAWS",
+          "SkilTypes": [
+            "platform"
+          ]
+        }
+      ],
+      "Operations": [
+        "設計",
+        "開発"
+      ],
+      "Frontend": [
+        {
+          "Name": "PHP",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        }
+      ],
+      "Backend": [
+        {
+          "Name": "Go",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "gorm",
+          "SkilTypes": [
+            "backend",
+            "framework"
+          ]
+        }
+      ],
+      "Other": [
+        {
+          "Name": "MySQL",
+          "SkilTypes": [
+            "db"
+          ]
+        },
+        {
+          "Name": "Slack",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "Redmine",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "GoogleWorkspace",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "Jenkins",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "Docker",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "Nginx",
+          "SkilTypes": [
+            "tool"
+          ]
+        },
+        {
+          "Name": "AmazonAWS",
+          "SkilTypes": [
+            "platform"
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "葬儀会社向け見積作成システム",
+      "From": "2021-03-01T00:00:00Z",
+      "To": "2022-02-01T00:00:00Z",
+      "Description": "葬儀会社向け見積作成システムの新規開発を行った。\n\n技術選定やプロジェクト遂行のための環境づくりから要件定義・設計・開発とプロジェクト全体を担当した。\n\n経験の浅いメンバーがいるということを考慮し、「フロントエンド・バックエンドを同じ言語に統一する」・「CI/CD を用意することでバグに対する素早いフォローができる環境を整える」など幅広い経験をさせていただいた。\n\nまた開発においてもリードエンジニアとしてベースとなる部分の作成やコードレビューなど開発における重要な役回りを担当した。",
+      "Experiences": [
+        {
+          "Name": "TypeScript",
+          "SkilTypes": [
+            "frontend",
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "Pug",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Sass",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Nuxt.js",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Vue.js",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Vuetify",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        }
+      ],
+      "Operations": [
+        "要件定義",
+        "設計",
+        "開発"
+      ],
+      "Frontend": [
+        {
+          "Name": "TypeScript",
+          "SkilTypes": [
+            "frontend",
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "Pug",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Sass",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Nuxt.js",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Vue.js",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Vuetify",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        }
+      ],
+      "Backend": [
+        {
+          "Name": "TypeScript",
+          "SkilTypes": [
+            "frontend",
+            "backend",
+            "language"
+          ]
+        }
+      ],
+      "Other": []
+    },
+    {
+      "Title": "公共機関向け基幹システムの保守開発",
+      "From": "2019-11-01T00:00:00Z",
+      "To": "2021-06-01T00:00:00Z",
+      "Description": "公共機関向け基幹システムの保守・開発を行った。\n\n法改正などに伴うシステム改修や新規自治体向けのカスタマイズを担当した。\n\n担当フェーズとしては開発・テストであったが、経験の少ない設計者に対しては\n\n設計指摘やアドバイスを行い、担当フェーズの垣根を超えた役回りをつとめた。",
+      "Experiences": [
+        {
+          "Name": "PL/SQL",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "Oracle",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ],
+      "Operations": [
+        "開発",
+        "テスト"
+      ],
+      "Frontend": [],
+      "Backend": [
+        {
+          "Name": "PL/SQL",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        }
+      ],
+      "Other": [
+        {
+          "Name": "Oracle",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "公共機関向けデジタル窓口システム新規開発",
+      "From": "2019-11-01T00:00:00Z",
+      "To": "2021-06-01T00:00:00Z",
+      "Description": "公共機関向けの企画開発を行った。\n\n新規企画システムとして窓口のシステム化を課題とし、主に転入・転出・転居などを職員・住民双方の立場でシステム化による業務改善に尽力した。",
+      "Experiences": [
+        {
+          "Name": "XAML",
+          "SkilTypes": [
+            "frontend"
+          ]
+        },
+        {
+          "Name": "CSharp",
+          "SkilTypes": [
+            "frontend",
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "PL/SQL",
+          "SkilTypes": [
+            "backend",
+            "db",
+            "language"
+          ]
+        },
+        {
+          "Name": "LiteDB",
+          "SkilTypes": [
+            "db",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Oracle",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ],
+      "Operations": [
+        "企画",
+        "設計",
+        "開発",
+        "テスト"
+      ],
+      "Frontend": [
+        {
+          "Name": "XAML",
+          "SkilTypes": [
+            "frontend"
+          ]
+        },
+        {
+          "Name": "CSharp",
+          "SkilTypes": [
+            "frontend",
+            "backend",
+            "language"
+          ]
+        }
+      ],
+      "Backend": [
+        {
+          "Name": "CSharp",
+          "SkilTypes": [
+            "frontend",
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "PL/SQL",
+          "SkilTypes": [
+            "backend",
+            "db",
+            "language"
+          ]
+        }
+      ],
+      "Other": [
+        {
+          "Name": "LiteDB",
+          "SkilTypes": [
+            "db",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Oracle",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "社内グループウェアツールの保守開発",
+      "From": "2019-11-01T00:00:00Z",
+      "To": "2021-06-01T00:00:00Z",
+      "Description": "社内グループウェアの保守・開発・更改を行った。\n\n10 年以上前から使用されている VBScript で作られたグループウェアを\n\nJavaScript に置き換える更改を主に担当した。",
+      "Experiences": [
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "JavaScript",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "VBScript",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "MicrosoftSQLServer",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ],
+      "Operations": [
+        "開発"
+      ],
+      "Frontend": [
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "JavaScript",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "VBScript",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        }
+      ],
+      "Backend": [],
+      "Other": [
+        {
+          "Name": "MicrosoftSQLServer",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "社内開発ツールの保守開発",
+      "From": "2019-11-01T00:00:00Z",
+      "To": "2021-06-01T00:00:00Z",
+      "Description": "社内で使われている開発用ツールの保守・開発を行った。\n\nRPA ではカバーしきれない範囲の CLI ツールの作成を要件を聞き、設計・開発を行った。",
+      "Experiences": [
+        {
+          "Name": "CSharp",
+          "SkilTypes": [
+            "frontend",
+            "backend",
+            "language"
+          ]
+        }
+      ],
+      "Operations": [
+        "設計",
+        "開発",
+        "テスト"
+      ],
+      "Frontend": [
+        {
+          "Name": "CSharp",
+          "SkilTypes": [
+            "frontend",
+            "backend",
+            "language"
+          ]
+        }
+      ],
+      "Backend": [
+        {
+          "Name": "CSharp",
+          "SkilTypes": [
+            "frontend",
+            "backend",
+            "language"
+          ]
+        }
+      ],
+      "Other": []
+    },
+    {
+      "Title": "運送会社向け配車 Web アプリケーション新規開発",
+      "From": "2019-04-01T00:00:00Z",
+      "To": "2019-09-01T00:00:00Z",
+      "Description": "運送会社向けの配車 Web アプリケーションの新規開発を行った。\n\n車両管理関連を主担当として設計・開発のバックエンド・フロントエンドの両方を担当した。\n\n会社として初の在宅勤務者として作業をさせていただき、在宅勤務におけるプロジェクト遂行の課題調査にも貢献した。",
+      "Experiences": [
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "JavaScript",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "Vue.js",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Vuetify",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Java",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "SprintBoot",
+          "SkilTypes": [
+            "backend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "PostgreSQL",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ],
+      "Operations": [
+        "設計",
+        "開発"
+      ],
+      "Frontend": [
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "JavaScript",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "Vue.js",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Vuetify",
+          "SkilTypes": [
+            "frontend",
+            "framework"
+          ]
+        }
+      ],
+      "Backend": [
+        {
+          "Name": "Java",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "SprintBoot",
+          "SkilTypes": [
+            "backend",
+            "framework"
+          ]
+        }
+      ],
+      "Other": [
+        {
+          "Name": "PostgreSQL",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "デリバリー専門 ECWeb アプリケーションの保守開発",
+      "From": "2018-04-01T00:00:00Z",
+      "To": "2019-03-01T00:00:00Z",
+      "Description": "デリバリー専門 ECWeb アプリケーションの保守・開発を行った。\n\n新規決済手法等の基本設計から開発・テスト・リリースまでの各フェーズを全体的に担当した。\n\n複数プロジェクトが常時稼働し、各プロジェクト間で人的リソースを流動的に割り振るような案件であったが\n\nそれぞれのプロジェクトで担当作業を順調に進めていきました。",
+      "Experiences": [
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "JavaScript",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "Java",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "SprintBoot",
+          "SkilTypes": [
+            "backend",
+            "framework"
+          ]
+        },
+        {
+          "Name": "Oracle",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ],
+      "Operations": [
+        "設計",
+        "開発",
+        "テスト",
+        "リリース"
+      ],
+      "Frontend": [
+        {
+          "Name": "HTML5",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "CSS3",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        },
+        {
+          "Name": "JavaScript",
+          "SkilTypes": [
+            "frontend",
+            "language"
+          ]
+        }
+      ],
+      "Backend": [
+        {
+          "Name": "Java",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "SprintBoot",
+          "SkilTypes": [
+            "backend",
+            "framework"
+          ]
+        }
+      ],
+      "Other": [
+        {
+          "Name": "Oracle",
+          "SkilTypes": [
+            "db"
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "生命保険料計算シミュレーションシステムの保守開発",
+      "From": "2015-05-01T00:00:00Z",
+      "To": "2018-03-01T00:00:00Z",
+      "Description": "生命保険会社向けの資産・負債計算シミュレーションシステムの保守・開発を行った。\n\nその中でも主にレート計算というシミュレーションの核となる部分を担当した。\n\n途中からはレート計算チームのサブリーダーとしてメンバーのタスク管理やコードレビューを担当させていただきました。",
+      "Experiences": [
+        {
+          "Name": "C",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        },
+        {
+          "Name": "VBA",
+          "SkilTypes": [
+            "tool",
+            "language"
+          ]
+        }
+      ],
+      "Operations": [
+        "設計",
+        "開発",
+        "テスト"
+      ],
+      "Frontend": [],
+      "Backend": [
+        {
+          "Name": "C",
+          "SkilTypes": [
+            "backend",
+            "language"
+          ]
+        }
+      ],
+      "Other": [
+        {
+          "Name": "VBA",
+          "SkilTypes": [
+            "tool",
+            "language"
+          ]
+        }
+      ]
+    }
+  ]
+}

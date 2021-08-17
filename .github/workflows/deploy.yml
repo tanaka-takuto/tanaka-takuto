@@ -1,0 +1,30 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@master
+      - name: Installing Go
+        uses: actions/setup-go@main
+        with:
+          go-version: '1.18'
+      - name: Create README
+        run: |
+          cd src
+          go run app/cmd/main.go data/basic.json data/skilInfo.json data/project.json ../README.md
+      - name: git setting
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+      - name: Commit README
+        run: |
+          git add .
+          git commit -m "Update README.md" -a
+          git push origin main
