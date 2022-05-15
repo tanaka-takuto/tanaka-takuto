@@ -38,6 +38,9 @@
 [AmazonAWS]: https://img.shields.io/badge/-AmazonAWS-555555?logo=Amazon%20AWS&logoColor=ffffff&labelColor=232F3E
 
 
+[GitHubPage ver](https://tanaka-takuto.github.io/tanaka-takuto/)
+[GitHub ver](https://github.com/tanaka-takuto/tanaka-takuto/)
+
 # 基本情報
 |  key  |          value          |
 | :---: | :---------------------: |
