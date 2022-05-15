@@ -5,6 +5,9 @@ const tpl = `<!-- 画像登録 -->
 {{range $i, $v := .Aliases}}[{{$v.Name}}]: https://img.shields.io/badge/-{{$v.Name}}-555555?logo={{$v.Icon}}&logoColor=ffffff&labelColor={{$v.Color.ImageColor}}
 {{end}}
 
+[GitHubPage ver](https://tanaka-takuto.github.io/tanaka-takuto/)
+[GitHub ver](https://github.com/tanaka-takuto/tanaka-takuto/)
+
 # 基本情報
 |  key  |          value          |
 | :---: | :---------------------: |
