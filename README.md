@@ -74,21 +74,21 @@ updated_at: 2023/09/15
 <!-- https://shields.io/ -->
 
 ## 言語
-![](https://img.shields.io/badge/C-2years11months-555555?logo=C&logoColor=FFFFFF&labelColor=A8B9CC)
-![](https://img.shields.io/badge/CSharp-3years4months-555555?logo=CSharp&logoColor=FFFFFF&labelColor=239120)
-![](https://img.shields.io/badge/CSS3-4years5months-555555?logo=CSS3&logoColor=FFFFFF&labelColor=1572B6)
+![](https://img.shields.io/badge/C-3years-555555?logo=C&logoColor=FFFFFF&labelColor=A8B9CC)
+![](https://img.shields.io/badge/CSharp-1years6months-555555?logo=CSharp&logoColor=FFFFFF&labelColor=239120)
+![](https://img.shields.io/badge/CSS3-1years6months-555555?logo=CSS3&logoColor=FFFFFF&labelColor=1572B6)
 ![](https://img.shields.io/badge/Go-1year6months-555555?logo=Go&logoColor=FFFFFF&labelColor=00ADD8)
-![](https://img.shields.io/badge/HTML5-4years5months-555555?logo=HTML5&logoColor=FFFFFF&labelColor=E34F26)
+![](https://img.shields.io/badge/HTML5-1years6months-555555?logo=HTML5&logoColor=FFFFFF&labelColor=E34F26)
 ![](https://img.shields.io/badge/Java-1year6months-555555?logo=Java&logoColor=FFFFFF&labelColor=007396)
-![](https://img.shields.io/badge/JavaScript-3years2months-555555?logo=JavaScript&logoColor=FFFFFF&labelColor=F7DF1E)
+![](https://img.shields.io/badge/JavaScript-3years-555555?logo=JavaScript&logoColor=FFFFFF&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/PHP-3months-555555?logo=PHP&logoColor=FFFFFF&labelColor=777BB4)
-![](https://img.shields.io/badge/PL/SQL-3years4months-555555?logo=Oracle&logoColor=FFFFFF&labelColor=F80000)
-![](https://img.shields.io/badge/TypeScript-1year-555555?logo=TypeScript&logoColor=FFFFFF&labelColor=3178C6)
-![](https://img.shields.io/badge/VBA-2years11months-555555?logo=MicrosoftOffice&logoColor=FFFFFF&labelColor=3178C6)
-![](https://img.shields.io/badge/VBScript-1year8months-555555?logo=VBScript&logoColor=FFFFFF&labelColor=0076D6)
+![](https://img.shields.io/badge/PL/SQL-3years-555555?logo=Oracle&logoColor=FFFFFF&labelColor=F80000)
+![](https://img.shields.io/badge/TypeScript-2year-555555?logo=TypeScript&logoColor=FFFFFF&labelColor=3178C6)
+![](https://img.shields.io/badge/VBA-1years-555555?logo=MicrosoftOffice&logoColor=FFFFFF&labelColor=3178C6)
+![](https://img.shields.io/badge/VBScript-1year-555555?logo=VBScript&logoColor=FFFFFF&labelColor=0076D6)
 
 ## フレームワーク
-![](https://img.shields.io/badge/Nuxt.js-1year-555555?logo=Nuxt.js&logoColor=FFFFFF&labelColor=00C58E)
+![](https://img.shields.io/badge/Nuxt.js-1year6months-555555?logo=Nuxt.js&logoColor=FFFFFF&labelColor=00C58E)
 ![](https://img.shields.io/badge/SprintBoot-1year6months-555555?logo=SprintBoot&logoColor=FFFFFF&labelColor=6DB33F)
 
 ## ライブラリ
@@ -103,22 +103,22 @@ updated_at: 2023/09/15
 
 ## DB
 ![](https://img.shields.io/badge/LiteDB-1year8months-555555?logo=LiteDB&logoColor=FFFFFF&labelColor=607D8A)
-![](https://img.shields.io/badge/MySQL-3months-555555?logo=MySQL&logoColor=FFFFFF&labelColor=4479A1)
+![](https://img.shields.io/badge/MySQL-2years-555555?logo=MySQL&logoColor=FFFFFF&labelColor=4479A1)
 ![](https://img.shields.io/badge/Oracle-4years4months-555555?logo=Oracle&logoColor=FFFFFF&labelColor=F80000)
-![](https://img.shields.io/badge/PL/SQL-1year8months-555555?logo=Oracle&logoColor=FFFFFF&labelColor=F80000)
-![](https://img.shields.io/badge/LiteDB-1year8months-555555?logo=LiteDB&logoColor=FFFFFF&labelColor=607D8A)
-![](https://img.shields.io/badge/MicrosoftSQLServer-1year8months-555555?logo=MicrosoftSQLServer&logoColor=FFFFFF&labelColor=CC2927)
+![](https://img.shields.io/badge/PL/SQL-2years-555555?logo=Oracle&logoColor=FFFFFF&labelColor=F80000)
+![](https://img.shields.io/badge/LiteDB-1year-555555?logo=LiteDB&logoColor=FFFFFF&labelColor=607D8A)
+![](https://img.shields.io/badge/MicrosoftSQLServer-2years-555555?logo=MicrosoftSQLServer&logoColor=FFFFFF&labelColor=CC2927)
 ![](https://img.shields.io/badge/PostgreSQL-6months-555555?logo=PostgreSQL&logoColor=FFFFFF&labelColor=4169E1)
 
 
 ## ツール
-![](https://img.shields.io/badge/Slack-3months-555555?logo=Slack&logoColor=FFFFFF&labelColor=4A154B)
-![](https://img.shields.io/badge/Redmine-3months-555555?logo=Redmine&logoColor=FFFFFF&labelColor=B32024)
-![](https://img.shields.io/badge/GoogleWorkspace-3months-555555?logo=Google&logoColor=FFFFFF&labelColor=4285F4)
-![](https://img.shields.io/badge/Jenkins-3months-555555?logo=Jenkins&logoColor=FFFFFF&labelColor=D24939)
-![](https://img.shields.io/badge/Docker-3months-555555?logo=Docker&logoColor=FFFFFF&labelColor=2496ED)
-![](https://img.shields.io/badge/Nginx-3months-555555?logo=Nginx&logoColor=FFFFFF&labelColor=009639)
-![](https://img.shields.io/badge/VBA-2years11months-555555?logo=MicrosoftOffice&logoColor=FFFFFF&labelColor=3178C6)
+![](https://img.shields.io/badge/Slack-2years-555555?logo=Slack&logoColor=FFFFFF&labelColor=4A154B)
+![](https://img.shields.io/badge/Redmine-2years-555555?logo=Redmine&logoColor=FFFFFF&labelColor=B32024)
+![](https://img.shields.io/badge/GoogleWorkspace-2years-555555?logo=Google&logoColor=FFFFFF&labelColor=4285F4)
+![](https://img.shields.io/badge/Jenkins-2years-555555?logo=Jenkins&logoColor=FFFFFF&labelColor=D24939)
+![](https://img.shields.io/badge/Docker-2years-555555?logo=Docker&logoColor=FFFFFF&labelColor=2496ED)
+![](https://img.shields.io/badge/Nginx-6months-555555?logo=Nginx&logoColor=FFFFFF&labelColor=009639)
+![](https://img.shields.io/badge/VBA-2years-555555?logo=MicrosoftOffice&logoColor=FFFFFF&labelColor=3178C6)
 
 
 
