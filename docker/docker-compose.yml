@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  resume_builder:
+    image: node:latest
+    tty: true
+    ports:
+      - 3000:3000
+    volumes:
+      - ../resume_builder:/app
+    environment:
+      - NODE_ENV=development

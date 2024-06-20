@@ -1,0 +1,15 @@
+{
+	"name": "Develop for ResuBuild",
+	"dockerComposeFile": "../docker/docker-compose.yml",
+	"service": "resume_builder",
+	"workspaceFolder": "/app",
+	"remoteUser": "node",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"bradlc.vscode-tailwindcss",
+				"dbaeumer.vscode-eslint"
+			]
+		}
+	}
+}
