@@ -1,4 +1,7 @@
 <!-- 画像登録 -->
+<!-- https://shields.io/ -->
+<!-- https://simpleicons.org/ -->
+
 [.NET]: https://img.shields.io/badge/-.NET-555555?logo=.NET&logoColor=ffffff&labelColor=512BD4
 [AmazonAWS]: https://img.shields.io/badge/-AmazonAWS-555555?logo=Amazon%20AWS&logoColor=ffffff&labelColor=232F3E
 [ApolloGraphQL]: https://img.shields.io/badge/-ApolloGraphQL-555555?logo=ApolloGraphQL&logoColor=ffffff&labelColor=311C87
@@ -36,6 +39,7 @@
 [Redmine]: https://img.shields.io/badge/-Redmine-555555?logo=Redmine&logoColor=ffffff&labelColor=B32024
 [Sass]: https://img.shields.io/badge/-Sass-555555?logo=Sass&logoColor=ffffff&labelColor=CC6699
 [Slack]: https://img.shields.io/badge/-Slack-555555?logo=Slack&logoColor=ffffff&labelColor=4A154B
+[Spanner]: https://img.shields.io/badge/-googlecloudspanner-555555?logo=googlecloudspanner&logoColor=ffffff&labelColor=4285F4
 [SpringBoot]: https://img.shields.io/badge/-SpringBoot-555555?logo=SpringBoot&logoColor=ffffff&labelColor=6DB33F
 [TypeScript]: https://img.shields.io/badge/-TypeScript-555555?logo=TypeScript&logoColor=ffffff&labelColor=3178C6
 [VBA]: https://img.shields.io/badge/-VBA-555555?logo=MicrosoftOffice&logoColor=ffffff&labelColor=3178C6
@@ -43,11 +47,6 @@
 [Vue.js]: https://img.shields.io/badge/-Vue.js-555555?logo=Vue.js&logoColor=ffffff&labelColor=4FC08D
 [Vuetify]: https://img.shields.io/badge/-Vuetify-555555?logo=Vuetify&logoColor=ffffff&labelColor=1867C0
 [XAML]: https://img.shields.io/badge/-XAML-555555?logo=XAML&logoColor=ffffff&labelColor=0C54C2
-
-# 基本情報
-|  key  |          value           |
-| :---: | :----------------------: |
-| 氏名  | 田中 拓斗(Takuto Tanaka) |
 
 ## 得意なこと
 - 温和な性格で誰とでも円滑なコミュニケーションをとれる
@@ -62,8 +61,6 @@
 - SREの立場として開発効率化を推進
 
 # スキル
-
-<!-- https://shields.io/ -->
 
 ## 言語
 ![](https://img.shields.io/badge/C-over3years-555555?logo=C&logoColor=FFFFFF&labelColor=A8B9CC)
@@ -116,7 +113,7 @@
 
 # 職務経歴書
 
-## 【ブロックチェーン/SaaS】(2024/01 ~ )
+## 【ブロックチェーン/SaaS】(2024/04 ~ )
 企業向けのウォレットおよびワークフローを提供するSaaSシステムのフロントエンドとバックエンドの開発を担当しました。
 
 バックエンドとフロントエンドの両方にまたがる開発を行い、MySQLのメジャーバージョンアップやgRPC-webからRPC Connectへの移行など、複数のプロジェクトに取り組みました。
@@ -130,6 +127,20 @@ MySQLのメジャーバージョンアップでは、アプリケーション自
 |       担当業務       | バックエンド |     フロントエンド      |                            その他                             |
 | :------------------: | :----------: | :---------------------: | :-----------------------------------------------------------: |
 | 設計 / 開発 / テスト |    ![Go]     | ![TypeScript] ![Nextjs] | ![Ethereum] ![MySQL] ![Slack] ![Jira]  ![Docker] ![AmazonAWS] |
+
+【ブロックチェーン/SaaS】(2024/01 ~ 2024/03)
+証券会社向けの暗号資産ウォレットを提供するSaaSシステムのバックエンド開発を担当しました。
+
+主な業務として、手数料（Gas代）のシミュレーション機能の追加を行いました。この機能により、ユーザーがトランザクションを実行する際の手数料を事前に把握できるようになり、取引の透明性と信頼性を向上させました。
+
+また、マイクロサービスアーキテクチャにおけるGolangのバージョンアップを実施しました。各マイクロサービスで古いバージョンのGolangが使用されていたため、最新バージョンへの移行を行いました。バージョンアップに際しては、互換性の問題や障害は発生せず、スムーズに移行できました。各サービスごとにバージョンアップを適用し、デグレード検証を行いました。具体的には、サービスのレスポンスやデータベースの値が他のサービスに影響を与えていないことを確認し、評価しました。
+
+チーム内でのコミュニケーションや調整はSlackを用いて行い、迅速かつ円滑な情報共有を実現しました。
+
+
+|       担当業務       | バックエンド |               その他                |
+| :------------------: | :----------: | :---------------------------------: |
+| 設計 / 開発 / テスト |    ![Go]     | ![Spanner] ![Slack]  ![GoogleCloud] |
 
 ## 【転職/サーベイ等HR系WebサービスのCRM】(2022/06 ~ 2023/12)
 企業の人材採用や従業員満足度調査を支援するHR系WebサービスのCRMバックエンド開発を担当しました。
