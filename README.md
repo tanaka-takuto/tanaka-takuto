@@ -38,7 +38,6 @@
 [Slack]: https://img.shields.io/badge/-Slack-555555?logo=Slack&logoColor=ffffff&labelColor=4A154B
 [SprintBoot]: https://img.shields.io/badge/-SprintBoot-555555?logo=SprintBoot&logoColor=ffffff&labelColor=6DB33F
 [TypeScript]: https://img.shields.io/badge/-TypeScript-555555?logo=TypeScript&logoColor=ffffff&labelColor=3178C6
-[TypeScript]: https://img.shields.io/badge/-TypeScript-555555?logo=TypeScript&logoColor=ffffff&labelColor=3178C6
 [VBA]: https://img.shields.io/badge/-VBA-555555?logo=MicrosoftOffice&logoColor=ffffff&labelColor=3178C6
 [VBScript]: https://img.shields.io/badge/-VBScript-555555?logo=VBScript&logoColor=ffffff&labelColor=0076D6
 [Vue.js]: https://img.shields.io/badge/-Vue.js-555555?logo=Vue.js&logoColor=ffffff&labelColor=4FC08D
@@ -50,12 +49,6 @@
 |  key  |          value           |
 | :---: | :----------------------: |
 | 氏名  | 田中 拓斗(Takuto Tanaka) |
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanaka-takuto)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanaka-takuto)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanaka-takuto)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanaka-takuto)
-
 
 
 ## 得意なこと
