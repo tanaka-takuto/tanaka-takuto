@@ -90,7 +90,7 @@
 ### Go
 ![](https://img.shields.io/badge/echo-1year6months-555555?logo=&logoColor=FFFFFF&labelColor=00ADD8)
 ![](https://img.shields.io/badge/gorm-1year6months-555555?logo=&logoColor=FFFFFF&labelColor=00ADD8)
-## Javascript/HTML/CSS
+### Javascript/HTML/CSS
 ![](https://img.shields.io/badge/Pug-1year-555555?logo=Pug&logoColor=FFFFFF&labelColor=A86454)
 ![](https://img.shields.io/badge/Sass-1year-555555?logo=Sass&logoColor=FFFFFF&labelColor=CC6699)
 ![](https://img.shields.io/badge/Vue.js-1year6months-555555?logo=Vue.js&logoColor=FFFFFF&labelColor=4FC08D)
@@ -124,7 +124,7 @@
 
 バックエンドとフロントエンドの両方にまたがる開発を行い、MySQLのメジャーバージョンアップやgRPC-webからRPC Connectへの移行など、複数のプロジェクトに取り組みました。
 
-RPC Connectへの移行では、バックエンドをRPC Connectへ移行する際に後方互換性の維持が難しく、フロントエンド2種、Chrome拡張機能、モバイルアプリすべてへの対応が必要となりました。モバイルアプリは他のメンバーが担当していましたが、それ以外の対応をすべて引き受け、影響範囲の調査、各種対応、テストケースの作成およびテストを実施しました。
+RPC Connectへの移行では、バックエンドをRPC Connectへ移行する際に後方互換性の維持が難しく、フロントエンド2種、Chrome拡張機能、モバイルアプリすべてへの対応が必要となりました。具体的には、protobufのlintを導入することによりRPCのIFが変わったり、API通信のcontent-typeが変わった結果、古いフロントからアクセスできなくなるという課題が生じました。解決方法としてほとんどの部分で後方互換を諦め、強制アップデートを行いました。モバイルアプリは他のメンバーが担当していましたが、それ以外の対応をすべて引き受け、影響範囲の調査、各種対応、テストケースの作成およびテストを実施しました。
 
 MySQLのメジャーバージョンアップでは、アプリケーション自体の対応はほとんど必要なく、Terraformの修正とテストケースの作成、テストの実施が主な作業でした。しかし、リリース後に一部のバッチ処理でタイムアウトが発生し、デグレによってデータベースのインデックスが消えていたことが原因であると判明しました。インデックスの再作成とその他のデグレ箇所の調査・対応を行いました。
 
